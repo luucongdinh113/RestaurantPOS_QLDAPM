@@ -1,6 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using RestaurantPOS.Models;
+using System.Collections.Generic;
 using System.Diagnostics;
+using System.Net;
 
 namespace RestaurantPOS.Controllers
 {
@@ -13,9 +15,10 @@ namespace RestaurantPOS.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
+        public IEnumerable<Object> Index(int x)
         {
-            return View();
+            if(x==0) return Enumerable.Empty<Object>();
+            return new List<Object>() { new { name = "dinh", age = 18 }, new { name = "hang", age = 20 } };
         }
 
         public IActionResult Privacy()
