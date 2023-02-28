@@ -3689,11 +3689,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dinhd\\source\\repos\\RestaurantPOS\\RestaurantPOS\\RestaurantPOS.csproj",
+      "projectUniqueName": "D:\\github\\RestaurantPOS_QLDAPM\\RestaurantPOS\\RestaurantPOS.csproj",
       "projectName": "RestaurantPOS",
-      "projectPath": "C:\\Users\\dinhd\\source\\repos\\RestaurantPOS\\RestaurantPOS\\RestaurantPOS.csproj",
+      "projectPath": "D:\\github\\RestaurantPOS_QLDAPM\\RestaurantPOS\\RestaurantPOS.csproj",
       "packagesPath": "C:\\Users\\dinhd\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dinhd\\source\\repos\\RestaurantPOS\\RestaurantPOS\\obj\\",
+      "outputPath": "D:\\github\\RestaurantPOS_QLDAPM\\RestaurantPOS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dinhd\\AppData\\Roaming\\NuGet\\NuGet.Config",

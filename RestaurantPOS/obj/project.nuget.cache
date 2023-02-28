@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7duT+P4uRP3547fzwfeMr91ak6b0LoJNmRDwdnpUAzTcwK5oczh3o4FD31PoxtOjRatZ9wb/F3Fr72F74712Jg==",
+  "dgSpecHash": "E12zekKCA0H8zgBDnaox+gQCcpZjqzBVa5qtUBM3JJca7Au2+3whpVM1i+bVLPx7x1n3ysGTJijDKJ8WpHeSag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dinhd\\source\\repos\\RestaurantPOS\\RestaurantPOS\\RestaurantPOS.csproj",
+  "projectFilePath": "D:\\github\\RestaurantPOS_QLDAPM\\RestaurantPOS\\RestaurantPOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dinhd\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\dinhd\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
